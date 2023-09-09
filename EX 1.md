@@ -46,7 +46,7 @@ INSERT INTO students(rollno, name, age, address, phoneno) VALUES (2, 'SMITH', 25
  
 ### SQL QUERY: 
 ```python
-DROP TABLE students;
+DROP TABLE mystudent;
 ```
 
 ### OUTPUT:
